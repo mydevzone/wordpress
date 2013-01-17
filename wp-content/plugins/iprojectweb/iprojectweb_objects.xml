@@ -1,0 +1,32 @@
+<objects>
+  <Projects>
+    <ProjectFiles/>
+    <Risks/>
+    <Tasks>
+      <TaskFiles/>
+    </Tasks>
+  </Projects>
+  <Priorities/>
+  <ProjectStatuses/>
+  <RiskStrategies/>
+  <Roles/>
+  <ProjectRoles/>
+  <RiskProbabilities/>
+  <UserField1/>
+  <Users/>
+  <UserField2/>
+  <RiskImpacts/>
+  <Risks_MailingLists/>
+  <TaskTypes/>
+  <RiskTypes/>
+  <RiskStatuses/>
+  <Projects_Teams/>
+  <Files/>
+  <ApplicationSettings/>
+  <Projects_MailingLists/>
+  <UserTypes/>
+  <ProjectField1/>
+  <ProjectField2/>
+  <Tasks_MailingLists/>
+  <TaskStatuses/>
+</objects>

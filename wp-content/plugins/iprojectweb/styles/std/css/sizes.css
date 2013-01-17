@@ -1,0 +1,41 @@
+.ufo-mainform.ufo-users {width:720px}
+.ufo-mainform.ufo-users .ufo-tab-wrapper{height:420px;}
+.ufo-mainform.ufo-users .ufo-tabs .ufo-tab-wrapper{padding:0px 2px;width:auto;height:auto}
+.ufo-mainform.ufo-users .viewtable{height:370px;}
+.ufo-mainform.ufo-users .ufo-tab2 .viewtable{height:315px;}
+
+.ufo-mainform.ufo-projects {width:720px}
+.ufo-mainform.ufo-projects .ufo-tab-wrapper{height:410px;}
+.ufo-mainform.ufo-projects .viewtable{height:363px;}
+
+.ufo-mainform.ufo-risks{width:720px;}
+.ufo-mainform.ufo-risks .ufo-tab-wrapper{height:492px;}
+.ufo-mainform.ufo-risks .viewtable{height:445px;}
+
+.ufo-mainform.ufo-tasks{width:720px;}
+.ufo-mainform.ufo-tasks .ufo-tab-wrapper{height:462px;}
+.ufo-mainform.ufo-tasks .viewtable{height:415px;}
+
+.ufo-readonlyform.ufo-projects {width:720px}
+.ufo-readonlyform.ufo-projects .ufo-tab-wrapper{height:410px;}
+.ufo-readonlyform.ufo-projects .viewtable{height:363px;}
+
+.ufo-readonlyform.ufo-users{width:720px;}
+.ufo-readonlyform.ufo-users .ufo-tab-wrapper{height:335px;}
+.ufo-readonlyform.ufo-users .viewtable{height:285px;}
+
+.ufo-readonlyform.ufo-tasks{width:720px;}
+.ufo-readonlyform.ufo-tasks .ufo-tab-wrapper{height:430px;}
+.ufo-readonlyform.ufo-tasks .viewtable{height:385px;}
+
+.ufo-teammemberform.ufo-users {width:720px;height:416px;}
+.ufo-teammemberform.ufo-users .ufo-tab-wrapper{height:416px;}
+.ufo-teammemberform.ufo-users .ufo-tabs .ufo-tab-wrapper{padding:0px 2px;width:auto;height:auto}
+.ufo-teammemberform.ufo-users .viewtable{height:370px;}
+.ufo-teammemberform.ufo-users .ufo-tab2 .viewtable{height:315px;}
+
+.ufo-mainform.ufo-applicationsettings{width:720px;}
+.ufo-mainform.ufo-applicationsettings .ufo-tab-wrapper{height:410px;}
+
+.ufo-readonlyform.ufo-risks{width:630px;}¶.ufo-readonlyform.ufo-risks .ufo-tab-wrapper{height:456px;}¶.ufo-readonlyform.ufo-risks .viewtable{height:409px;}
+
